@@ -20,4 +20,4 @@ Client:
 java -jar ResProbeClient.jar [PORT] [Server Address]
 ```
 
-# Notice that gui client not finished yet!!!
+# Notice that gui client has NOT FINISHED yet!!!
