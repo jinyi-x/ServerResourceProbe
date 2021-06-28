@@ -40,3 +40,10 @@ resprobeclientgui/ios/Flutter/app.zip
 resprobeclientgui/ios/Flutter/flutter_assets/
 resprobeclientgui/ios/ServiceDefinitions.json
 resprobeclientgui/ios/Runner/GeneratedPluginRegistrant.*
+
+ResProbe/.classpath
+ResProbe/.project
+ResProbe/.settings/
+ResProbeClient/.classpath
+ResProbeClient/.project
+ResProbeClient/.settings/
