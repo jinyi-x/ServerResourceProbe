@@ -19,3 +19,5 @@ Client:
 ```shell
 java -jar ResProbeClient.jar [PORT] [Server Address]
 ```
+
+# Notice that gui client not finished yet!!!
