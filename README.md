@@ -1,7 +1,7 @@
 # ServerResourceProbe
 A server resource monitor written by jinyi.  
 
-## Develop Plan
+## Developing Plan
 
 &nbsp;&nbsp;Currently can output Server Information on consle. In the future may add GUI and a IoT Device to show server information at any time;
 
